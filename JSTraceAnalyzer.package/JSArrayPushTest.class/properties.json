@@ -1,0 +1,14 @@
+{
+	"category" : "JSTraceAnalyzer-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "JSArrayPushTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,5 +1,5 @@
 data
-date
+data
 
 	^ 
 'new 1 2

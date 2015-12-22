@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"objectID" ],
-	"name" : "JSEvent",
+		"events" ],
+	"name" : "JSTraceAnalyzer",
 	"pools" : [
 		 ],
 	"super" : "Object",
