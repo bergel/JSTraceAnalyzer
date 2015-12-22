@@ -1,4 +1,4 @@
-as yet unclassified
+public
 analyzeString: longString
-	events addAll: (longString lines do: [ :line | JSEvent createEventFrom: line])
+	events addAll: (longString lines collect: [ :line | JSEvent createEventFrom: line ])
 	
