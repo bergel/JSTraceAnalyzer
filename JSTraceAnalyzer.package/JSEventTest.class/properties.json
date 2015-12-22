@@ -1,0 +1,14 @@
+{
+	"category" : "JSTraceAnalyzer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JSEventTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

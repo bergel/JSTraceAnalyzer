@@ -1,0 +1,14 @@
+{
+	"category" : "JSTraceAnalyzer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JSArrayPush",
+	"pools" : [
+		 ],
+	"super" : "JSEvent",
+	"type" : "normal" }
